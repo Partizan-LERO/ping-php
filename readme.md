@@ -1,6 +1,6 @@
-#PHP MULTIPROCESSING SERVER CHECKER
+# PHP MULTIPROCESSING SERVER CHECKER
 
-###A simple application for checking the availability of servers which works in multiprocessing mode(via pcntl module).
+### A simple application for checking the availability of servers which works in multiprocessing mode(via pcntl module).
 
 How to run:
 
