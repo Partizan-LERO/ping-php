@@ -8,9 +8,9 @@ How to run:
 
 `docker exec -ti ping-php_app_1 php index.php` - to run checker
 
-By default, it works in 5 parallel processes. But you can change it by passing the integer argument to the command I mentioned above. Like this:
+By default, it works in 10 parallel processes. But you can change it by passing the integer argument to the command I mentioned above. Like this:
 
-`docker exec -ti ping-php_app_1 php index.php 10` - now the script will handle 10 processes simultaneously.
+`docker exec -ti ping-php_app_1 php index.php 5` - now the script will handle 5 processes simultaneously.
 
 
 
